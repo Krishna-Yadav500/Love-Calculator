@@ -1,0 +1,3 @@
+# Author: Krishna Yadav
+# Dependencies: None
+# This is a static frontend project that runs in any modern web browser.
